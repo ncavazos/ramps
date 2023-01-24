@@ -82,6 +82,6 @@ setFunction({
   glsl: `   vec2 st = _st;
  
    float y = parabola(st.x,1.0);
-   vec3 color = vec3(y;
+   vec3 color = vec3(y);
    return vec4(color, 1.0);`
 })
