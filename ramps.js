@@ -1,5 +1,5 @@
 setFunction({
-  name: 'e_ramp',
+  name: 'exp_ramp',
   type: 'src',
   inputs: [
     {
