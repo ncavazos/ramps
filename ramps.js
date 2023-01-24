@@ -64,3 +64,24 @@ setFunction({
    vec3 color = vec3(st.x);
    return vec4(color, 1.0);`
 })
+setFunction({
+  name: 'mirrored',
+  type: 'src',
+  inputs: [
+    {
+      type: 'float',
+      name: 'frequency',
+      default: 0,
+    },
+    {
+      type: 'float',
+      name: 'sync',
+      default: .1,
+    },
+  ],
+  glsl: `   vec2 st = _st;
+ 
+   float y = parabola(st.x,1.0);
+   vec3 color = vec3(y;
+   return vec4(color, 1.0);`
+})
