@@ -4,11 +4,11 @@ Ramps for Hydra
 Hydra already contains the gradient object but I thought it would be interesting to have different forms of ramps more readily available. These ramps are permutations of linear, logarithmic, exponential etc. The goal is to have mulitple ramp types that are available with much quicker recall to generate more complex geometry.
 
 ### Types
-Linear
+Linear<br>
 ![](lin.png) 
-Logarithmic 
+Logarithmic<br>
 ![](log.png) 
-Exponential 
+Exponential<br>
 ![](exp.png)
 
 Ramps can be added to Hydra project by typing
