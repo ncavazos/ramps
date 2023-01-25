@@ -1,5 +1,5 @@
 # ramps
-Ramps for Hydra
+Ramp Generator for Hydra
 ## Description
 Hydra already contains the gradient object but I thought it would be interesting to have different forms of ramps more readily available. These ramps are permutations of linear, logarithmic, exponential etc. Mirrored ramps will also be available. The goal is to have mulitple ramp types that are available with much quicker recall to generate more complex geometry.
 
