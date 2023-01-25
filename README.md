@@ -8,6 +8,8 @@ Linear
 ![](lin.png)
 Logarithmic
 ![](log.png)
+Exponential
+![](exp.png)
 
 can be added to Hydra project by typing
 `await loadScript('https://cdn.jsdelivr.net/gh/ncavazos/ramps@main/ramps.js')`
