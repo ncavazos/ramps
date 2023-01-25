@@ -5,12 +5,12 @@ Hydra already contains the gradient object but I thought it would be interesting
 
 ### Types
 Linear
-![](lin.png)
-Logarithmic
-![](log.png)
-Exponential
+![](lin.png) 
+Logarithmic 
+![](log.png) 
+Exponential 
 ![](exp.png)
 
-can be added to Hydra project by typing
+Ramps can be added to Hydra project by typing
 `await loadScript('https://cdn.jsdelivr.net/gh/ncavazos/ramps@main/ramps.js')`
 at the top of hydra project
